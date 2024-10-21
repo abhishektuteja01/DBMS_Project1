@@ -14,7 +14,7 @@ UML_Diagram.JPG
 
 3. From the Conceptual Model, construct a logical data model expressed as an ERD using a language of your choice (other than UML) and a tool of your choice. The logical data model may not have any many-to-many relationships, so introduce association entities as needed.
 
-ERD_Diagram.JPG
+ERD_Diagram.JPG  
 Link_to_ERD.pdf
 
 
@@ -24,7 +24,7 @@ Relational Schema.pdf
 
 Create a set of SQL data definition statements for the above model and realize that schema in SQLite3 by executing the script from the SQLite3, the console or Node. You can use DB Browser to generate these statements.
 
-project1.db
+project1.db  
 Data_Creation_SQL.sql
 
 
