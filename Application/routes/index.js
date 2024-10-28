@@ -36,7 +36,7 @@ router.get("/transactions/:transaction_id/edit", async (req, res, next) => {
   const msg = req.query.msg || null;
   try {
     let tra = await myDb.getTransactionByID(transaction_id);
-    let traders = await myDb.getTraderByTransactionID(transaction_id);
+    let traders = await myDb.getTraderbyTransactionID(transaction_id);
 
     console.log("edit transaction", {
       tra,
