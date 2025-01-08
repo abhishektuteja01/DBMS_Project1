@@ -1,5 +1,5 @@
-# DBMS_PROJECT1
-This repository is for BUILD: Project I / Design & Implement a Relational Database.
+# Investory - A Stock Bookkeeping Application
+
 
 ## How to Run:
 1. Describe the requirements of the problem with a simple document that lists the rules of the database in the problem domain language. Then from that list of rules and notes highlight the list of possible nouns and actions you identified.
